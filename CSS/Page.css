@@ -1,0 +1,64 @@
+Header {
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.Header {
+  max-width: 1980px;
+  padding: 0 30;
+  height: 143px;
+  background-color: rgb(180, 244, 255);
+  display: flex;
+  margin: 0 auto;
+  
+
+
+}
+.adres {
+  width: 352px;
+  height: 29px;
+  position: relative;
+  top: 56px;
+  left: 771px;
+}
+.nomer {
+  width: 211px;
+  height: 29px;
+  position: relative;
+  top: 56px;
+  left: 700px;
+}
+.Bus {
+  width: 139px;
+  height: 139px;
+  position: relative;
+  top: 4px;
+  left: 382px;
+}
+
+.VK {
+  width: 39.87px;
+  height: 25.42px;
+  position: relative;
+  top: 60px;
+  left: 1413px;
+}
+
+.Telegram {
+  width: 42px;
+  height: 42px;
+  position: relative;
+  top: 52px;
+  left: 1466px;
+}
+
+.WhatsApp {
+  width: 39px;
+  height: 39px;
+  position: relative;
+  top: 54px;
+  left: 1521px;
+}
